@@ -6,3 +6,6 @@ Artificial Intelligence powered education tool to assist student in most of thei
 * Emphasise on each answer selected and feedback
 * Topic based summary generator
 * Option to print out the summary as pdf
+
+### Project Milestone
+[Setup](https://github.com/Mr-Kheswa/Study-Assistant/issues/1)
