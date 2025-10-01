@@ -1,3 +1,4 @@
+# Linking other python files to allow fleunt functionility
 from core.quiz_engine import generate_quiz
 from core.summary_ai import generate_summary
 from core.pdf_export import export_summary_to_pdf
@@ -38,3 +39,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
