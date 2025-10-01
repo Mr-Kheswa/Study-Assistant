@@ -21,11 +21,11 @@ Artificial Intelligence powered education tool to assist student in most of thei
 **Study_Assistant**
 
 cli/     **Command line interface**
-* __init__.py
+* _init_.py
 * main.py
 
 core/    **AI and quiz logic**
-* __init__.py
+* _init_.py
 * quiz_engine.py
 * quiz_ai.py
 * summary_ai.py
